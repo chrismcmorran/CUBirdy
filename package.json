@@ -1,0 +1,25 @@
+{
+  "name": "cubirdy",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cheerio": "^0.22.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jQuery": "latest",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "node-regexp": "^0.1.1",
+    "regex": "^0.1.1",
+    "request": "latest",
+    "serve-favicon": "~2.4.2",
+    "string": "^3.3.3",
+    "table-scraper": "0.0.2",
+    "colors": "latest"
+  }
+}
